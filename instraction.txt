@@ -1,0 +1,8 @@
+1.npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -pt
+
+2.npm i -D daisyui@latest
+
+3.npm install firebase
+
+4.npm install --save prop-types
